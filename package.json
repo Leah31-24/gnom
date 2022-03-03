@@ -1,0 +1,22 @@
+{
+  "name": "curso-inaem-proyecto1",
+  "version": "1.0.0",
+  "description": "Pig game by JUANDA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanda99/curso-inaem-proyecto1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanda99/curso-inaem-proyecto1/issues"
+  },
+  "homepage": "https://github.com/juanda99/curso-inaem-proyecto1#readme",
+  "devDependencies": {
+    "eslint-config-standard": "^16.0.3"
+  }
+}
