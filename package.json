@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/juanda99/curso-inaem-proyecto1#readme",
   "devDependencies": {
-    "eslint-config-standard": "^16.0.3"
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-prettier": "^4.0.0"
   }
 }
